@@ -1,0 +1,33 @@
+{
+  "question": [
+    "Q1. Which country won the 2010 FIFA World Cup?",
+    "Q2. Which team has won the most Super Rugby titles?",
+    "Q3. Who has the most All Black caps?",
+    "Q4. Which Basketball team does Lebron James play for?"
+  ],
+  "answer": [
+    1,
+    3,
+    2,
+    2
+  ],
+  "options": [
+    ["Spain",
+     "Netherlands",
+     "France",
+     "Belgium"],
+    ["Blues",
+     "Hurricanes",
+     "Crusaders",
+     "Reds"],
+    ["Aaron Smith",
+     "Richie Mccaw",
+     "Kieran Reid",
+     "Christian Cullen"],
+    ["Miami Heat",
+     "L.A Lakers",
+     "Cleveland Cavaliers",
+     "Golden State Warriors"
+    ]
+  ]
+}
